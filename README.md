@@ -38,3 +38,6 @@ name type {your qeury here}
 name
 
 name quit Note this doesnt work
+
+# Note
+This is not a modual to run this program run sky co 5.0.py
