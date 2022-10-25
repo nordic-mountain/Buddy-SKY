@@ -1,9 +1,9 @@
 #SETTINGS
 
-name_for_the_machine = "buddy" #This must be lower case #defalut is buddy
-accent = "en"
-user_name = "Sky Solas"
-song_PATH = r"C:\Users\Gianclarence Solas\Desktop\python books\python projects\collection\Alexa\Sound\Imagine_Dragons_Radioactive.mp3"
+name_for_the_machine = "Your alexa name here" #This must be lower case #defalut is buddy
+accent = "en" #the language like ja
+user_name = "Your name here"
+song_PATH = "your song path here!"
 
 def get_name():
     return name_for_the_machine
