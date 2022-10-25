@@ -1,10 +1,10 @@
 # Sky-Co.-Alexa
 This is a Alexa
 ![$ky CØ](https://user-images.githubusercontent.com/111663675/197827660-55a4e7ba-614f-4a0f-a512-558fc62faf84.png)
-#Stuff
+# Stuff
 to change the name, your name, or your song go to __SETTINGS__ thank you!
 
-#Commands
+# Commands
 name = your alexa name
 
 commads are:
