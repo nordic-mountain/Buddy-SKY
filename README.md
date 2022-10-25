@@ -1,7 +1,7 @@
 # Sky-Co.-Alexa
 This is a Alexa
 
-![$ky CØ](https://user-images.githubusercontent.com/111663675/197827360-a4480127-9adc-4d20-bef6-69ce4eda07fd.png)
+![$ky CØ](https://user-images.githubusercontent.com/111663675/197827660-55a4e7ba-614f-4a0f-a512-558fc62faf84.png)
 
 
 #Stuff
