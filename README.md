@@ -1,4 +1,4 @@
-# Sky-Co.-Alexa
+# Buddy-SKY
 This is a Alexa
 ![$ky CØ](https://user-images.githubusercontent.com/111663675/197827660-55a4e7ba-614f-4a0f-a512-558fc62faf84.png)
 # Stuff
